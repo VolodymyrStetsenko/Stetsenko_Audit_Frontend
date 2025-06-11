@@ -4,4 +4,4 @@ const Logo = ({ className = '' }: { className?: string }) => (
   <img src={logo} alt="Stetsenko Audit Logo" className={`h-12 w-auto ${className}`} />
 );
 
-export default Logo; 
+export default Logo;
