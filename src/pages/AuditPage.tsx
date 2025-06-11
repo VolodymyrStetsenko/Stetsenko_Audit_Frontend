@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import { motion } from 'framer-motion';
 import Logo from '../components/Logo';
-import jsPDF from 'jspdf';
+import { jsPDF } from 'jspdf';
 import logo from '../assets/stetsenko-logo.png';
 import { SparklesIcon, DocumentTextIcon, ShieldCheckIcon } from '@heroicons/react/24/outline';
 
