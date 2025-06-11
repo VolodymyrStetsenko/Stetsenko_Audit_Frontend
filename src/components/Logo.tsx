@@ -1,4 +1,3 @@
-import React from 'react';
 import logo from '../assets/stetsenko-logo.png';
 
 const Logo = ({ className = '' }: { className?: string }) => (
